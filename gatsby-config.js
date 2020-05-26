@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Juliette Pretot',
+    title: 'Sophie Donkin',
     siteUrl: 'https://jul.sh'
   },
   plugins: [
