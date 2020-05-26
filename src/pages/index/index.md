@@ -5,6 +5,6 @@ featuredImage: ./me.jpg
 style: index
 ---
 
-My name's **_Diana Florescu_**. I'm a creative, ambitious marketing manager.
+My name's **_Sophie Donkin_**. I'm a Experienced Chief Of Staff with a demonstrated history of working across industries.
 
 
